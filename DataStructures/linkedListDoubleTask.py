@@ -1,0 +1,1 @@
+#implementar lista duplamente ligada, em que o nó aponta para o próximo e anterior
