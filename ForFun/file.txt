@@ -1,0 +1,3 @@
+Esse é um exemplo
+de mensagem que escreverei
+no arquivo
